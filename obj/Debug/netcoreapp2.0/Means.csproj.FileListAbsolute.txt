@@ -1,0 +1,11 @@
+/Users/benjamincook/Desktop/Means/Means/bin/Debug/netcoreapp2.0/Means.deps.json
+/Users/benjamincook/Desktop/Means/Means/bin/Debug/netcoreapp2.0/Means.runtimeconfig.json
+/Users/benjamincook/Desktop/Means/Means/bin/Debug/netcoreapp2.0/Means.runtimeconfig.dev.json
+/Users/benjamincook/Desktop/Means/Means/bin/Debug/netcoreapp2.0/Means.dll
+/Users/benjamincook/Desktop/Means/Means/bin/Debug/netcoreapp2.0/Means.pdb
+/Users/benjamincook/Desktop/Means/Means/obj/Debug/netcoreapp2.0/Means.csprojAssemblyReference.cache
+/Users/benjamincook/Desktop/Means/Means/obj/Debug/netcoreapp2.0/Means.csproj.CoreCompileInputs.cache
+/Users/benjamincook/Desktop/Means/Means/obj/Debug/netcoreapp2.0/Means.AssemblyInfoInputs.cache
+/Users/benjamincook/Desktop/Means/Means/obj/Debug/netcoreapp2.0/Means.AssemblyInfo.cs
+/Users/benjamincook/Desktop/Means/Means/obj/Debug/netcoreapp2.0/Means.dll
+/Users/benjamincook/Desktop/Means/Means/obj/Debug/netcoreapp2.0/Means.pdb
